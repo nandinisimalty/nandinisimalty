@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on developing responsive and scalable web interfaces<br>I'm looking to collaborate on frontend development initiatives<br>I'm currently learning React.js and modern frontend development workflows<br>Fun fact i enjoy turning ideas into interactive web experiences.
+Hi there 👋
+
+🔭I'm currently working on developing responsive and scalable web interfaces<br>🌱I'm currently learning React.js and modern frontend development workflows<br>⚡Fun fact: I enjoy turning ideas into interactive web experiences.
 
 
 ## 🌐 Socials:
